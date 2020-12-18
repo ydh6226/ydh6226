@@ -1,7 +1,7 @@
-##BackEnd Developer
+## BackEnd Developer
 
-###ydh6226@naver.com
-###https://velog.io/@ydh6226
+### ydh6226@naver.com
+### https://velog.io/@ydh6226
 
 <!--
 **ydh6226/ydh6226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
